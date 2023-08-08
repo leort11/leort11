@@ -1,5 +1,5 @@
 <div align="center">
-  <img src= Image/Espada_GitHub.png alt= Espada_Pixel><img src= Image/Ola_Seja_Bem_Vindo.png alt= Seja_Bem_Vindo><img src= Image/Espada_GitHub2.png alt=   Espada_Pixel_Invertido>
+  <img src= Image/Ola_Seja_Bem_Vindo.png alt= Seja_Bem_Vindo>
 </div>
 
 #
