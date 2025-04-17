@@ -27,4 +27,5 @@
   <img align= "center" alt="Python" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white >
   <img align= "center" alt="C#" src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white>
   <img align= "center" alt="JavaScript" src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E>
+  <img align= "center" alt="Static Badge" src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter">
 </div>
