@@ -28,4 +28,6 @@
   <img align= "center" alt="C#" src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white>
   <img align= "center" alt="JavaScript" src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E>
   <img align= "center" alt="Static Badge" src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter">
+  <img align= "center" alt="Static Badge" src="https://img.shields.io/badge/JAVA-solid?style=for-the-badge&color=%23FC4C02">
+  <img align= "center" alt="Static Badge" src="https://img.shields.io/badge/cplusplus-solid?style=for-the-badge&logo=cplusplus&color=%2300599C">
 </div>
