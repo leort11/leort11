@@ -30,4 +30,5 @@
   <img align= "center" alt="Static Badge" src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter">
   <img align= "center" alt="Static Badge" src="https://img.shields.io/badge/JAVA-solid?style=for-the-badge&color=%23FC4C02">
   <img align= "center" alt="Static Badge" src="https://img.shields.io/badge/cplusplus-solid?style=for-the-badge&logo=cplusplus&color=%2300599C">
+  <img align= "center" alt="Static Badge" src="https://img.shields.io/badge/react-solid?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB">
 </div>
