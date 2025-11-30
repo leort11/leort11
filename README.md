@@ -3,11 +3,6 @@
 </div>
 
 #
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leort11&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leort11&layout=compact&theme=chartreuse-dark)](https://github.com/leort11/github-readme-stats)
-
-#
 
 <img src= Image/Contatos_e_Redes.png alt= Contatos_e_Redes>
 
